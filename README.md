@@ -12,7 +12,7 @@ Example: python run.py
 Input: 'https://www.youtube.com/watch?v=QUYODQB_2wQ&lc=UgyiYJzk2XMGjuIjsSx4AaABAg.9mYftIxYoRS9mgn2hI2WRg'
 Please note that application prefers long URLs.
 
-## Revolutionizing Content Creation with ChatGPT: Harnessing YouTube Comments with AI Text Summarization:
+## 2. Revolutionizing Content Creation with ChatGPT: Harnessing YouTube Comments with AI Text Summarization:
 
 The developer made the following contributions to the project:
 * Idea Generation: The idea for the project was to use YouTube comments as a 
@@ -24,7 +24,7 @@ The developer made the following contributions to the project:
  solution by prompting it to consider nested comments and replies, rather 
  than just the top-level comments initially considered.
 
-## Future of ChatGPT: 
+## 3. Future of ChatGPT: 
 ChatGPT is not a magical solution for all problems. It requires structural 
 thinking and prompt engineering to make the most out of it. 
 
@@ -35,7 +35,7 @@ Therefore, it is crucial to focus on developing prompt engineering skills to ful
 the capabilities of ChatGPT and other advanced tools.
 
 
-## Development:
+## 4. Development:
 To create GOOGLE_APPLICATION_CREDENTIALS or explicitly create credential: please see https://cloud.google.com/docs/authentication/getting-started
 
 To create a service account and generate a service account key file for your Google Cloud Platform project, follow these steps:
@@ -53,5 +53,5 @@ To create a service account and generate a service account key file for your Goo
 * The key file will be downloaded to your local machine.
 * Once you have the service account key file, set the GOOGLE_APPLICATION_CREDENTIALS environment variable to the file path of the key file in your Python script. You can then use the Google Cloud SDK to authenticate and access the YouTube Data API.
 
-## Reference:
+## 5. Reference:
 * YouTube Data API: https://developers.google.com/youtube/v3/docs/?apix=true
